@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\obj\Debug\netcoreapp3.1\ExercicioPedido.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\obj\Debug\netcoreapp3.1\ExercicioPedido.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\obj\Debug\netcoreapp3.1\ExercicioPedido.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\obj\Debug\netcoreapp3.1\ExercicioPedido.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\bin\Debug\netcoreapp3.1\ExercicioPedido.exe
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\bin\Debug\netcoreapp3.1\ExercicioPedido.deps.json
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\bin\Debug\netcoreapp3.1\ExercicioPedido.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\bin\Debug\netcoreapp3.1\ExercicioPedido.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\bin\Debug\netcoreapp3.1\ExercicioPedido.dll
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\bin\Debug\netcoreapp3.1\ExercicioPedido.pdb
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\obj\Debug\netcoreapp3.1\ExercicioPedido.dll
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\obj\Debug\netcoreapp3.1\ExercicioPedido.pdb
+C:\ProgramasCSharp\ConceitoDeComposicao\ExercicioPedido\ExercicioPedido\obj\Debug\netcoreapp3.1\ExercicioPedido.genruntimeconfig.cache
